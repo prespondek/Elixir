@@ -11,13 +11,13 @@ The repositry contains code from the cross platform game "Food of the Gods" for 
 [Class/data](https://github.com/prespondek/Elixir/tree/master/Classes/data)
 This folder contains the core game logic for Food of the God's. The "Match 3" game logic is in here. This is all my own code.
 
-### TableGraph.h/TableGraph.cpp
+#### TableGraph.h/TableGraph.cpp
 This controls all of the whole table of blocks
 
-### TableNode.h/TableNode.cpp
+#### TableNode.h/TableNode.cpp
 This represents the containers on the board which the blocks fall into.
 
-### TableBlock.h/TableBlock.cpp
+#### TableBlock.h/TableBlock.cpp
 Code for the falling blocks. Mainly contains data. 
 
 ## C++ Bindings
