@@ -1,1 +1,5 @@
--cocos2d/
+cocos2d/
+Resources-Android/
+Resources-iOS/
+Resources-Shared/
+Source/
